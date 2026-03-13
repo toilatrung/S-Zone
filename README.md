@@ -1,4 +1,4 @@
-# Cấu trúc hệ thống - Website Phản Ánh Bạo Lực Học Đường
+# Cấu trúc hệ thống - Website S-Zone --- Phản Ánh Bạo Lực Học Đường
 
 ## Tổng quan (Overview)
 Đây là một ứng dụng Web tĩnh (Client-side) được xây dựng bằng React và Vite. 
@@ -93,5 +93,3 @@ Hệ thống cần các biến môi trường sau trong file `.env` để hoạt
 ## Hướng phát triển trong tương lai
 - **Backend Thực sự**: Nếu quy mô lớn, có thể xây dựng Node.js/Python backend thay thế Google Forms để quản lý dữ liệu an toàn và linh hoạt hơn.
 - **Tích hợp Zalo OA**: Sử dụng Zalo ZNS hoặc Bot để gửi tin nhắn thông báo (thay thế EmailJS) giúp người quản lý nhận thông tin nhanh hơn trên điện thoại.
-
-# S-Zone
